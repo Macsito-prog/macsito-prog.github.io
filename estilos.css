@@ -4,6 +4,7 @@ main{
 
 .listado{
     text-align: left;
+    padding-left: 150px;
 }
 /*proximos pasos 
 1.- cambiar fondo? 
@@ -11,3 +12,7 @@ main{
 3.- UI !!! 
 4.- subirla a github pages.
 */
+.listado-educacion{
+    text-align: center;
+    list-style: none;
+}
